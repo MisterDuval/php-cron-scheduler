@@ -23,7 +23,7 @@ or add the package to your `composer.json`
 }
 ```
 
-Scheduler V3 requires php >= 7.1, please use the [v2 branch](https://github.com/peppeocchi/php-cron-scheduler/tree/v2.x) for php versions < 7.1.
+Scheduler V3 requires php >= 7.2, please use the [v2 branch](https://github.com/peppeocchi/php-cron-scheduler/tree/v2.x) for php versions <= 7.1.
 
 ## How it works
 
